@@ -10,7 +10,7 @@ Welcome to my GitHub accounnt!
  ### Hi Developers 👋
 
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkabadede309/)](www.linkedin.com/in/sachinkabadede309)
+[![Linkedin Badge](https://img.shields.io/badge/-Sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkabadede309/)](https://www.linkedin.com/in/sachinkabadede309/)
 [![Github Badge](https://img.shields.io/badge/Github-Sachin-green)](https://github.com/sachink88/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sachin-yellow)](https://stackoverflow.com/users/14346273/sachink)
 
