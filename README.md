@@ -17,7 +17,7 @@ Welcome to my GitHub accounnt!
 I'm
 **Full Stack Web Developer**
 
- Goal-oriented Web Developer brings a strong commitment to collaboration and solutions-oriented problem-solving, Focused on creating clean, robust code. 12+ years of experience in the field of Technical Support exploring challenging assignments as a *Full Stack Web Developer* with a reputed organization.I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),  front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql)
+ Goal-oriented Full Stack Web Developer brings a strong commitment to collaboration and solutions-oriented problem-solving, Focused on creating clean, robust code. 12+ years of experience in the field of Technical Support exploring challenging assignments as a *Full Stack Web Developer* with a reputed organization.I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),  front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sachink88/count.svg)
