@@ -1,39 +1,53 @@
-# 👋 Hi Developers, I'm Sachin Kabade  
+# 👋 Hi, I'm Sachin Kabade  
 
-[![Linkedin Badge](https://img.shields.io/badge/-SachinKabade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkabadede309/)](https://www.linkedin.com/in/sachinkabadede309/)  
-[![Github Badge](https://img.shields.io/badge/Github-sachink88-green)](https://github.com/sachink88/)  
-[![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Sachin-yellow)](https://stackoverflow.com/users/14346273/sachink)  
+🚀 **Linux & Telecom Engineer | Aspiring Data Engineer & Data Scientist**  
 
----
-
-## 🚀 About Me  
-
-🌟 **Linux & Telecom Engineer | Transitioning into Data Engineering & Data Science**  
-
-I bring **16+ years of professional experience** in **Telecom, VoIP, Linux systems, and Technical Support**.  
-Currently, I’m **reskilling into the Data domain** – focusing on **Data Engineering, Data Analytics, and Data Science**.  
-
-My past roles gave me strong expertise in **Linux administration, automation, system monitoring, and handling large-scale VoIP data**, which I now leverage to build **data pipelines, analytics, and machine learning solutions**.  
+I bring **16+ years of professional experience** in **Telecom, VoIP, Linux systems, and IPPBX solutions**.  
+Currently pursuing a **Post Graduate Program (PGP) in Data Science (Data Engineering, Analytics, Machine Learning, NLP, Cloud)**, I am building hands-on projects to transition into the **Data Engineering & Data Science domain**.  
 
 ---
 
-## 🔧 Tech Skills  
+## 🎓 Education & Career Transition  
+
+🎓 **B.E. in Electronics & Telecommunication Engineering** (2009)  
+🎓 **PGP in Data Science** – Ongoing, to be completed by **August 2026**  
+- Specializations: Data Engineering, Data Analytics, Machine Learning, Deep Learning, NLP, Cloud  
+
+💼 **16+ years of professional experience** in:  
+- Broadband & Network Engineering (MTNL, Mumbai)  
+- Service Engineering for Dell systems (TVSE)  
+- EPABX Technical Support (Aikon, Iconic Office Pvt. Ltd.)  
+- Implementation Engineer (Asterisk IPPBX, VoIP, Voice Bot – Haloocom Technology Pvt. Ltd.)  
+
+---
+
+## 🔧 Technical Skills  
 
 **Data Engineering:** Python, SQL, Apache Spark, Hadoop, Hive, Kafka, Airflow, AWS Redshift  
 **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
-**Data Science (in progress):** Machine Learning, Regression, Classification, NLP  
-**Systems & Telecom:** Linux, Shell Scripting, Asterisk, VoIP, IPPBX, SIP  
+**Data Science:** Machine Learning, Regression, Classification, NLP (in progress)  
+**Systems & Telecom:** Linux Administration, Shell Scripting, Asterisk, IPPBX, VoIP, SIP  
 
 ---
 
 ## 📊 Featured Projects  
 
-- 📦 **Order Delivery Time Prediction** – Regression model using Python (Pandas, Scikit-learn)  
-- 📑 **Farmers Insurance SQL Analysis** – Advanced SQL queries & ERD for PMFBY dataset  
-- ⚡ **ETL Pipeline with PySpark** – End-to-end ETL pipeline for log data ingestion & transformation  
-- 📞 **VoIP Call Data Analytics Dashboard** – Analyzed call logs & built insights with Python/SQL  
+- [📦 Order Delivery Time Prediction](#) – Regression model to estimate delivery time using Python (Pandas, Scikit-learn)  
+- [📑 Farmers Insurance SQL Analysis](#) – Complex SQL queries & ERD for PMFBY dataset  
+- [⚡ ETL Pipeline with PySpark](#) – End-to-end ETL pipeline for log data ingestion & transformation  
+- [📞 Call Center Data Analytics Dashboard](#) – Analyzed VoIP logs and built insights using Python/SQL visualizations  
+- [📈 Retail Analytics Dashboard](#) – Power BI dashboard with sales insights and KPIs  
 
-👉 Explore my repositories for more projects!  
+👉 Check out my repositories for more **hands-on data projects** as I progress through my PGP journey.  
+
+---
+
+## 🎯 Current Focus  
+
+- Completing **PGP in Data Science (Data Engineering & Analytics)** by August 2026  
+- Building **ETL pipelines** with PySpark, Airflow, and AWS  
+- Exploring **real-time data streaming** with Kafka & Spark Streaming  
+- Strengthening **machine learning & NLP projects** with Python  
 
 ---
 
@@ -48,31 +62,45 @@ My past roles gave me strong expertise in **Linux administration, automation, sy
   </a>
 </div>  
 
-![](https://activity-graph.herokuapp.com/graph?username=sachink88&theme=react-dark&area=true)  
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachink88&show_icons=true&theme=radical" alt="Sachin's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachink88&theme=radical" alt="Sachin's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachink88&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachink88&theme=react-dark&area=true)  
 
 ---
 
 ## 🛠️ Languages & Tools  
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/redshift/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="redshift" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.asterisk.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" alt="asterisk" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)  
+[![Hadoop](https://img.shields.io/badge/Hadoop-FF9900?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)  
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)  
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)  
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)  
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)  
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Let’s Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sachinkabadede309/)  
+- 💼 [LinkedIn](https://linkedin.com/in/sachinkabade88)  
 - 📧 Email: sachinkabade88@gmail.com  
-- 🌐 GitHub: [github.com/sachink88](https://github.com/sachink88)  
-- 💬 StackOverflow: [Sachin’s Profile](https://stackoverflow.com/users/14346273/sachink)
+
+---
