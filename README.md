@@ -2,26 +2,14 @@
 
 🚀 **Linux & Telecom Engineer | Aspiring Data Engineer & Data Scientist**  
 
-I bring **16+ years of professional experience** in **Telecom, VoIP, Linux systems, and IPPBX solutions**.  
-Currently pursuing a **Post Graduate Program (PGP) in Data Science (Data Engineering, Analytics, Machine Learning, NLP, Cloud)**, I am building hands-on projects to transition into the **Data Engineering & Data Science domain**.  
+I bring **16+ years of professional experience** in **Linux systems, VoIP, IPPBX, and Telecom infrastructure**.  
+Currently pursuing a **Post Graduate Program (PGP) in Data Science (Aug 2025 – Aug 2026)** to transition into **Data Engineering & Data Science**.  
+
+My focus is on building **ETL pipelines, data analytics dashboards, and machine learning projects** to solve real-world business problems.  
 
 ---
 
-## 🎓 Education & Career Transition  
-
-🎓 **B.E. in Electronics & Telecommunication Engineering** (2009)  
-🎓 **PGP in Data Science** – Ongoing, to be completed by **August 2026**  
-- Specializations: Data Engineering, Data Analytics, Machine Learning, Deep Learning, NLP, Cloud  
-
-💼 **16+ years of professional experience** in:  
-- Broadband & Network Engineering (MTNL, Mumbai)  
-- Service Engineering for Dell systems (TVSE)  
-- EPABX Technical Support (Aikon, Iconic Office Pvt. Ltd.)  
-- Implementation Engineer (Asterisk IPPBX, VoIP, Voice Bot – Haloocom Technology Pvt. Ltd.)  
-
----
-
-## 🔧 Technical Skills  
+## 🔧 Tech Skills  
 
 **Data Engineering:** Python, SQL, Apache Spark, Hadoop, Hive, Kafka, Airflow, AWS Redshift  
 **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
@@ -32,22 +20,21 @@ Currently pursuing a **Post Graduate Program (PGP) in Data Science (Data Enginee
 
 ## 📊 Featured Projects  
 
-- [📦 Order Delivery Time Prediction](#) – Regression model to estimate delivery time using Python (Pandas, Scikit-learn)  
-- [📑 Farmers Insurance SQL Analysis](#) – Complex SQL queries & ERD for PMFBY dataset  
-- [⚡ ETL Pipeline with PySpark](#) – End-to-end ETL pipeline for log data ingestion & transformation  
-- [📞 Call Center Data Analytics Dashboard](#) – Analyzed VoIP logs and built insights using Python/SQL visualizations  
-- [📈 Retail Analytics Dashboard](#) – Power BI dashboard with sales insights and KPIs  
+- [📦 Order Delivery Time Prediction](#) – Regression model to estimate delivery time using Python (Pandas, Scikit-learn).  
+- [🌾 Farmers Insurance SQL Case Study](#) – SQL queries & ERD for PMFBY dataset analysis.  
+- [🚖 NYC Yellow Taxi Data Analysis](#) – Exploratory Data Analysis (EDA) of trip patterns, fares & geospatial insights.  
+- [⚡ Data Engineering ETL Pipeline](#) – End-to-end pipeline using PySpark, Airflow, and PostgreSQL.  
 
-👉 Check out my repositories for more **hands-on data projects** as I progress through my PGP journey.  
+👉 Check out my repositories for more projects as I continue my **data science journey**.  
 
 ---
 
 ## 🎯 Current Focus  
 
-- Completing **PGP in Data Science (Data Engineering & Analytics)** by August 2026  
-- Building **ETL pipelines** with PySpark, Airflow, and AWS  
-- Exploring **real-time data streaming** with Kafka & Spark Streaming  
-- Strengthening **machine learning & NLP projects** with Python  
+- 📌 Completing my **PGP in Data Science (Aug 2026)**  
+- 📌 Building **ETL pipelines** with PySpark & Airflow  
+- 📌 Exploring **real-time streaming** with Kafka & Spark Streaming  
+- 📌 Working on **machine learning projects** for real-world datasets  
 
 ---
 
@@ -60,23 +47,9 @@ Currently pursuing a **Post Graduate Program (PGP) in Data Science (Data Enginee
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sachink88&column=7&theme=onedark"/>
   </a>
-</div>  
+</div>
 
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachink88&show_icons=true&theme=radical" alt="Sachin's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachink88&theme=radical" alt="Sachin's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachink88&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachink88&theme=dark&hide_border=true)  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachink88&theme=react-dark&area=true)  
 
@@ -84,23 +57,24 @@ Currently pursuing a **Post Graduate Program (PGP) in Data Science (Data Enginee
 
 ## 🛠️ Languages & Tools  
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)  
-[![Hadoop](https://img.shields.io/badge/Hadoop-FF9900?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)  
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)  
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)  
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)  
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)  
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="40"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/redshift/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="redshift" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.asterisk.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" alt="asterisk" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>  
 
 ---
 
 ## 📫 Let’s Connect  
 
-- 💼 [LinkedIn](https://linkedin.com/in/sachinkabade88)  
+- 💼 [LinkedIn](https://linkedin.com/in/sachinkabadede309)  
 - 📧 Email: sachinkabade88@gmail.com  
-
----
+- 🐙 [GitHub](https://github.com/sachink88)
