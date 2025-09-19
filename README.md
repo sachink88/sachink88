@@ -128,54 +128,78 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a>
-<!--     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-    </a> -->
-<!--     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    </a> -->
-<!--     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
-    </a> -->
+# 👋 Hi, I'm Sachin Kabade  
 
-![](https://activity-graph.herokuapp.com/graph?username=sachink88&theme=react-dark&area=true)
-<!--
-**sachink88/sachink88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Linux & Telecom Engineer | Transitioning into Data Engineering & Data Science**  
 
-Here are some ideas to get you started:
+I bring **16+ years of professional experience** in **Telecom, VoIP, IPPBX, and Linux systems**.  
+Currently, I am building projects and enhancing my expertise in **Data Engineering, Data Analytics, and Data Science** to pivot into the data domain.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
+---
 
--->
+## 🔧 Tech Skills  
 
+**Data Engineering:** Python, SQL, Apache Spark, Hadoop, Hive, Kafka, Airflow, AWS Redshift  
+**Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
+**Data Science:** Machine Learning, Regression, Classification, NLP (in progress)  
+**Systems & Telecom:** Linux Administration, Shell Scripting, Asterisk, IPPBX, VoIP, SIP  
 
+---
+
+## 📊 Featured Projects  
+
+- [📦 Order Delivery Time Prediction](#) – Regression model to estimate delivery time using Python (Pandas, Scikit-learn).  
+- [📑 Farmers Insurance SQL Analysis](#) – Complex SQL queries & ERD for PMFBY dataset.  
+- [⚡ ETL Pipeline with PySpark](#) – Built an end-to-end ETL pipeline for log data ingestion, transformation, and storage.  
+- [📞 Call Center Data Analytics Dashboard](#) – Analyzed VoIP logs and built insights using Python/SQL visualizations.  
+
+👉 Check out my repositories for more hands-on learning projects.  
+
+---
+
+## 🎯 Current Focus  
+
+- Building **ETL pipelines** with PySpark and Airflow  
+- Exploring **real-time streaming** with Kafka & Spark Streaming  
+- Working on **machine learning projects** for real-world datasets  
+- Preparing for a **career transition into Data Engineering / Data Science**  
+
+---
+
+## 🏆 GitHub Highlights  
+
+![Visitor Count](https://profile-counter.glitch.me/sachink88/count.svg)  
+
+<div>
+  <h4>🏆 GitHub Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sachink88&column=7&theme=onedark"/>
+  </a>
+</div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachink88&theme=react-dark&area=true)  
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="40"/></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/redshift/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="redshift" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.asterisk.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" alt="asterisk" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📧 Email: sachinkabade88@gmail.com
