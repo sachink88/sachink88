@@ -1,24 +1,39 @@
 <!-- ### Hi there  :wave:
 
 Welcome to my GitHub accounnt!
+# 👋 Hi, I'm Sachin Kabade  
 
-- I am currently living in Mumbai, India
-- I am a *FUll Stack Web Devloper*
-- 
- -->
- 
- ### Hi Developers 👋
+🚀 **Linux & Telecom Engineer | Transitioning into Data Engineering & Data Science**  
 
-<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachinkabadede309/)](https://www.linkedin.com/in/sachinkabadede309/)
-[![Github Badge](https://img.shields.io/badge/Github-Sachin-green)](https://github.com/sachink88/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sachin-yellow)](https://stackoverflow.com/users/14346273/sachink)
+I bring **16+ years of professional experience** in **Telecom, VoIP, IPPBX, and Linux systems**.  
+Currently, I am focused on building skills and projects in **Data Engineering, Analytics, and Data Science**.  
 
-I'm
-**Full Stack Web Developer**
+---
 
- Goal-oriented *Full Stack Web Developer* brings a strong commitment to collaboration and solutions-oriented problem-solving, Focused on creating clean, robust code. Having 12+ years of experience in the field of Technical Support exploring challenging assignments as a *Full Stack Web Developer* with a reputed organization.I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),  front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql)
+## 🔧 Tech Skills
+- **Data Engineering:** Python, SQL, Apache Spark, Hadoop, Hive, Kafka, Airflow, AWS Redshift  
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Tableau/Power BI  
+- **Data Science:** Machine Learning, NLP (in progress)  
+- **Systems & Telecom:** Linux, Shell Scripting, Asterisk, IPPBX, VoIP, SIP  
 
+---
+
+## 📊 Projects
+- [Order Delivery Time Prediction](#) – Regression model to estimate delivery time.  
+- [Farmers Insurance SQL Analysis](#) – Complex SQL queries & ERD for PMFBY dataset.  
+- [ETL Pipeline with PySpark](#) – End-to-end ETL on sample data.  
+- [Call Center Data Analytics Dashboard](#) – Python & SQL-based call log analysis.  
+
+---
+
+## 🎯 Current Focus
+- Data Engineering Specialization (ETL, Spark, Kafka, Airflow)  
+- Real-time Data Streaming Projects  
+- Machine Learning Models for Business Problems  
+
+---
+
+📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile) | 📧 sachinkabade88@gmail.com
 
 ![Visitor Count](https://profile-counter.glitch.me/sachink88/count.svg)
 
