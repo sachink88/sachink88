@@ -20,12 +20,11 @@ My focus is on building **ETL pipelines, data analytics dashboards, and machine 
 
 ## 📊 Featured Projects  
 
-- [📦 Order Delivery Time Prediction](#) – Regression model to estimate delivery time using Python (Pandas, Scikit-learn).  
-- [🌾 Farmers Insurance SQL Case Study](#) – SQL queries & ERD for PMFBY dataset analysis.  
-- [🚖 NYC Yellow Taxi Data Analysis](#) – Exploratory Data Analysis (EDA) of trip patterns, fares & geospatial insights.  
-- [⚡ Data Engineering ETL Pipeline](#) – End-to-end pipeline using PySpark, Airflow, and PostgreSQL.  
-
-👉 Check out my repositories for more projects as I continue my **data science journey**.  
+- [📦 Order Delivery Time Prediction](https://github.com/sachink88/order-delivery-time-prediction) – Regression model to estimate delivery time.  
+- [🌾 PMFBY Farmers Insurance SQL Case Study](https://github.com/sachink88/pmfby-sql-case-study) – SQL queries & ERD for dataset analysis.  
+- [🚖 NYC Yellow Taxi Data Analysis](https://github.com/sachink88/nyc-taxi-analysis) – Exploratory Data Analysis of trips & fares.  
+- [⚡ PySpark ETL Pipeline](https://github.com/sachink88/pyspark-etl-pipeline) – End-to-end pipeline with PySpark, Airflow, PostgreSQL.  
+- [📞 Call-Center Analytics](https://github.com/sachink88/call-center-analytics) – Insights from Asterisk/VICIdial CDR logs.  
 
 ---
 
@@ -34,7 +33,7 @@ My focus is on building **ETL pipelines, data analytics dashboards, and machine 
 - 📌 Completing my **PGP in Data Science (Aug 2026)**  
 - 📌 Building **ETL pipelines** with PySpark & Airflow  
 - 📌 Exploring **real-time streaming** with Kafka & Spark Streaming  
-- 📌 Working on **machine learning projects** for real-world datasets  
+- 📌 Applying ML/NLP to **call center & telecom datasets**  
 
 ---
 
@@ -58,17 +57,14 @@ My focus is on building **ETL pipelines, data analytics dashboards, and machine 
 ## 🛠️ Languages & Tools  
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="80" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/redshift/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="redshift" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.asterisk.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" alt="asterisk" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="80"/> 
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" width="40"/> 
 </p>  
 
 ---
@@ -76,5 +72,5 @@ My focus is on building **ETL pipelines, data analytics dashboards, and machine 
 ## 📫 Let’s Connect  
 
 - 💼 [LinkedIn](https://linkedin.com/in/sachinkabadede309)  
+- 🐙 [GitHub](https://github.com/sachink88)  
 - 📧 Email: sachinkabade88@gmail.com  
-- 🐙 [GitHub](https://github.com/sachink88)
