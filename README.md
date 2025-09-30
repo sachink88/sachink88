@@ -7,7 +7,7 @@ Currently pursuing a **Post Graduate Program (PGP) in Data Science (Aug 2025 –
 
 My focus is on building **ETL pipelines, data analytics dashboards, and machine learning projects** to solve real-world business problems.  
 
----
+-----
 
 ## 🔧 Tech Skills  
 
@@ -16,7 +16,7 @@ My focus is on building **ETL pipelines, data analytics dashboards, and machine 
 **Data Science:** Machine Learning, Regression, Classification, NLP (in progress)  
 **Systems & Telecom:** Linux Administration, Shell Scripting, Asterisk, IPPBX, VoIP, SIP  
 
----
+-----
 
 ## 📊 Featured Projects  
 
