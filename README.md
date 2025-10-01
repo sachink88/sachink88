@@ -67,7 +67,7 @@ My focus is on building **ETL pipelines, data analytics dashboards, and machine 
   <img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" width="40"/> 
 </p>  
 
----
+-----
 
 ## 📫 Let’s Connect  
 
