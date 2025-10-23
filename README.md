@@ -63,21 +63,16 @@ I document my daily and weekly progress, mini-projects, and data case studies in
 
 ---
 
-## 🏆 GitHub Highlights  
-
-![Visitor Count](https://profile-counter.glitch.me/sachink88/count.svg)  
-
+## 🏆 GitHub Highlights
+![Visitor Count](https://komarev.com/ghpvc/?username=sachink88&label=Profile%20views&color=0e75b6&style=flat-square) <!-- Reliable alternative -->
 <div>
   <h4>🏆 GitHub Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sachink88&column=7&theme=onedark"/>
   </a>
 </div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachink88&theme=dark&hide_border=true)  
-<image-card alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sachink88&theme=dark&hide_border=true" ></image-card>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachink88&theme=react-dark&area=true)  
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=sachink88&theme=dark&hide_border=true) <!-- Fixed: Reliable demo host -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachink88&theme=react-dark&area=true)
 ---
 
 ## 🛠️ Languages & Tools  
