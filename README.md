@@ -75,7 +75,7 @@ I document my daily and weekly progress, mini-projects, and data case studies in
 </div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachink88&theme=dark&hide_border=true)  
-
+<image-card alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sachink88&theme=dark&hide_border=true" ></image-card>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachink88&theme=react-dark&area=true)  
 
 ---
