@@ -1,104 +1,117 @@
-# 👋 Hi, I'm Sachin Kabade  
+# 👋 Hi, I'm **Sachin Kabade**
 
-🚀 **Linux & Telecom Engineer | Aspiring Data Engineer & Data Scientist**  
+🚀 **Linux & Telecom Engineer | Aspiring Data Engineer & Data Scientist**
 
-A lifelong learner passionate about leveraging technology and data to solve real-world business problems. With 16+ years in Linux systems, VoIP, IPPBX, and Telecom infrastructure, I thrive at the intersection of telecom engineering and analytics, building impactful business solutions through hands-on projects and continuous upskilling.
+---
 
------
+## 💡 About Me
 
-## 🔧 Tech Skills  
+Passionate lifelong learner focused on using **data, automation, and cloud technologies** to build impactful business solutions.
+With 16+ years of experience in **Linux systems, VoIP, IPPBX, and telecom infrastructure**, I’m transitioning into the **data engineering and analytics domain**, combining strong systems expertise with data-driven innovation.
 
-**Data Engineering:** Python, SQL, Apache Spark, Hadoop, Hive, Kafka, Airflow, AWS Redshift  
+---
+
+## 🔧 Tech Stack
+
+**Data Engineering:** Python, SQL, Apache Spark, Hadoop, Hive, Kafka, Airflow, AWS Redshift, Java, Scala  
 **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
-**Data Science:** Machine Learning, Regression, Classification, NLP (in progress)  
-**Systems & Telecom:** Linux Administration, Shell Scripting, Asterisk, IPPBX, VoIP, SIP  
+**Web & Frontend:** HTML, CSS, JavaScript (ES6), React.js, Node.js  
+**Systems & Telecom:** Linux Administration, Shell Scripting, Asterisk, IPPBX, VoIP, SIP
 
-| Skill/Tool               | Level         |
+| Skill / Tool             | Level         |
 |--------------------------|--------------|
 | Python (Pandas/Numpy)    | ⭐⭐⭐⭐        |
 | SQL (MySQL/PostgreSQL)   | ⭐⭐⭐⭐        |
-| Excel/Spreadsheets       | ⭐⭐⭐⭐⭐       |
-| Tableau/PowerBI          | ⭐⭐⭐⭐        |
-| Apache Spark             | ⭐⭐⭐         |
-| Machine Learning         | ⭐⭐⭐         |
-| Airflow                  | ⭐⭐⭐         |
-| Linux/Shell Scripting    | ⭐⭐⭐⭐⭐       |
-
------
-
-## 📊 Featured Projects  
-
-- [📦 Order Delivery Time Prediction](https://github.com/sachink88/order-delivery-time-prediction) – Regression model to estimate delivery time.  
-    *Improved prediction accuracy on e-commerce delivery times using regression and feature engineering.*  
-- [🌾 PMFBY Farmers Insurance SQL Case Study](https://github.com/sachink88/pmfby-sql-case-study) – SQL queries & ERD for dataset analysis.  
-    *Built interactive SQL queries for agricultural insurance analytics, developing advanced join and reporting skills.*  
-- [🚖 NYC Yellow Taxi Data Analysis](https://github.com/sachink88/nyc-taxi-analysis) – Exploratory Data Analysis of trips & fares.  
-    *Uncovered trends in public transportation using pandas, visualization, and statistical summaries.*  
-- [⚡ PySpark ETL Pipeline](https://github.com/sachink88/pyspark-etl-pipeline) – End-to-end pipeline with PySpark, Airflow, PostgreSQL.  
-    *Designed scalable ETL for large datasets, practicing workflow automation and real-time pipeline orchestration.*  
-- [📞 Call-Center Analytics](https://github.com/sachink88/call-center-analytics) – Insights from Asterisk/VICIdial CDR logs.  
-    *Generated actionable business metrics for call center operations, bringing together telecom domain and analytics.*
+| Apache Spark / PySpark   | ⭐⭐⭐         |
+| Airflow / ETL Automation | ⭐⭐⭐         |
+| AWS (S3, Redshift)       | ⭐⭐⭐         |
+| Java / Scala             | ⭐⭐          |
+| JavaScript / React.js    | ⭐⭐⭐         |
+| Linux / Shell Scripting  | ⭐⭐⭐⭐⭐       |
+| Tableau / Power BI       | ⭐⭐⭐⭐        |
 
 ---
 
-## 🎯 Current Focus
+## 📊 Featured Projects
 
-- 📌 Completing my **PGP in Data Science (Aug 2026)**
-- 📌 Building **ETL pipelines** with PySpark & Airflow
-- 📌 Exploring **real-time streaming** with Kafka & Spark Streaming
-- 📌 Applying ML/NLP to **call center & telecom datasets** (NLP learning in progress)
-- 📒 Maintaining my [Notion Study & Reflection Journal](https://www.notion.so/YOUR-NOTION-LINK) documenting daily/weekly learning and case studies
+- ⚡ [PySpark ETL Pipeline](https://github.com/sachink88/pyspark-etl-pipeline)  
+  *Automated ETL pipeline using PySpark and Airflow to transform and load large datasets into PostgreSQL for analytics.*
 
----
+- 📦 [Order Delivery Time Prediction](https://github.com/sachink88/order-delivery-time-prediction)  
+  *Regression model predicting e-commerce delivery time with feature engineering using scikit-learn.*
 
-## 📒 My Learning Journey
+- 🌾 [PMFBY Farmers Insurance SQL Case Study](https://github.com/sachink88/pmfby-sql-case-study)  
+  *Advanced SQL case study exploring agricultural insurance data and relational design.*
 
-I document my daily and weekly progress, mini-projects, and data case studies in [this Notion Portfolio](https://www.notion.so/YOUR-NOTION-LINK).  
-- **Excel Foundations:** Early analysis projects, process automation  
-- **Python & SQL Projects:** Data cleaning, EDA, and automation  
-- **Telecom & Call Data:** Domain-focused analytics, business insights  
-- **Reflections:** Key learnings, solved challenges, and growth mindset
+- 🚖 [NYC Yellow Taxi Data Analysis](https://github.com/sachink88/nyc-taxi-analysis)  
+  *Exploratory Data Analysis of taxi trip datasets to uncover travel and fare trends.*
 
-(Ask for link if you prefer to share privately!)
+- 📞 [Call Center Analytics](https://github.com/sachink88/call-center-analytics)  
+  *Data insights from Asterisk CDR logs for operational performance and customer experience analysis.*
 
 ---
 
-## 🏆 GitHub Highlights
+## 🧭 1-Year Data Engineering Project Roadmap (2025–2026)
+
+| Quarter | Project Title                        | Description                                            | Key Skills / Tools              |
+|---------|--------------------------------------|--------------------------------------------------------|----------------------------------|
+| Q1      | 1️⃣ Automated ETL Data Pipeline      | Design reusable ETL pipeline (CSV/JSON → PostgreSQL)   | Python, Pandas, SQL, Airflow     |
+| Q1      | 2️⃣ Data Cleaning Framework          | Modular Python library for validation, quality checks   | Python, Great Expectations       |
+| Q2      | 3️⃣ PySpark Retail Analytics Pipeline| Spark process, store millions in AWS Redshift          | PySpark, AWS Redshift            |
+| Q2      | 4️⃣ Real-Time Data Streaming App     | Kafka → Spark Streaming → PostgreSQL → Live Dashboard  | Kafka, Spark Streaming           |
+| Q3      | 5️⃣ Airflow Orchestrated System      | Cloud ETL workflows (Airflow, Docker, AWS EC2)         | Airflow, Docker, AWS EC2         |
+| Q3      | 6️⃣ Data Warehouse Integration       | Warehouse with partitioned tables, BI layer            | AWS Redshift, SQL                |
+| Q4      | 7️⃣ Data Insights Dashboard (Web)    | React dashboard with REST API for visualizing ETL data | React.js, Node.js, Chart.js      |
+| Q4      | 8️⃣ Capstone: Cloud Data Platform    | Full pipeline: ETL → Spark → Kafka → Dashboard         | Spark, Airflow, AWS, React       |
+
+🧠 *Each project will be documented in GitHub for recruiter visibility.*
+
+---
+
+## 🌐 Web Data Apps & Visual Dashboards
+
+- Build **interactive dashboards** by integrating React.js/Chart.js or D3.js with backend APIs (Flask/Node.js).
+- Serve real data pipeline results via RESTful endpoints.
+- Demo projects for Data Engineering → Analytics → Visualization.
+- See my [Web Visualization Projects](#)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="80"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" width="60"/>
+  <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" width="40"/>
+</p>
+
+---
+
+## 🏆 GitHub Activity
 
 ![Visitor Count](https://profile-counter.glitch.me/sachink88/count.svg)
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sachink88&column=7&theme=onedark)
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sachink88&theme=onedark&column=7)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachink88&theme=dark&hide_border=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachink88&theme=react-dark&area=true)
 
 ---
 
-## 🛠️ Languages & Tools  
+## 📫 Contact
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" width="80"/> 
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/asterisk/asterisk-icon.svg" width="40"/> 
-</p>  
+- 💼 [LinkedIn](https://linkedin.com/in/sachinkabadede309)
+- 🐙 [GitHub](https://github.com/sachink88)
+- 📧 [sachinkabade88@gmail.com](mailto:sachinkabade88@gmail.com)
 
------
+---
 
-## 🤝 Let's Collaborate!
-
-Open to collaborating on data-driven projects or solving telecom/analytics challenges together.  
-Feel free to reach out, connect, or fork any of my repositories!
-
------
-
-## 📫 Let’s Connect  
-
-- 💼 [LinkedIn](https://linkedin.com/in/sachinkabadede309)  
-- 🐙 [GitHub](https://github.com/sachink88)  
-- 📧 Email: [sachinkabade88@gmail.com](mailto:sachinkabade88@gmail.com)  
+⭐ *“Building intelligent data systems — from Linux servers to real-time analytics dashboards.”*
