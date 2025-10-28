@@ -103,7 +103,7 @@ With 16+ years of experience in **Linux systems, VoIP, IPPBX, and telecom infras
 
 ![Sachin's GitHub Stats](./image.jpg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachink88&theme=dark&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachink88&theme=dark)](https://git.io/streak-stats)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachink88&theme=react-dark&area=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachink88&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachink88&layout=compact&theme=dark)
